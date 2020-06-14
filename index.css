@@ -147,7 +147,7 @@ table .td1 {
 }    
  
 td {
-    white-space: nowrap;
+/*     white-space: nowrap; */
 }
 
 table .td2 {
