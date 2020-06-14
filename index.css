@@ -128,7 +128,7 @@ footer a {
 
 /* About ページ*/
 table {
-    width:100%;
+    max-width:100%;
     /* margin-bottom: 30px;     */
 }
 
@@ -227,6 +227,7 @@ table .td2 {
     h2 {
         padding: 10px 20px;
     }
+
 
     table .tabletop {
         padding: 10px 0 10px 10px;
